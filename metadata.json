@@ -1,0 +1,6 @@
+{
+  "name": "Repte Matemàtic",
+  "description": "Un joc matemàtic interactiu per a pissarres digitals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
